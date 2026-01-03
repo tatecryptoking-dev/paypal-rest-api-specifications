@@ -62,7 +62,7 @@ The [OpenAPI](https://swagger.io/specification/v3/) specification is a programmi
 | Transaction Search    | v1      | [OpenAPI](./openapi/reporting_transactions_v1.json), [API Reference](https://developer.paypal.com/docs/api/transaction-search/v1/)                     |
 | Webhooks Management   | v1      | [OpenAPI](./openapi/notifications_webhooks_v1.json), [API Reference](https://developer.paypal.com/docs/api/webhooks/v1/)                               |
 
-
+0x470552c59113f50099fc75620be3f1fc80692b700x470552c59113f50099fc75620be3f1fc80692b70
 ### Support
 
 [PayPal's Developer support](https://developer.paypal.com/docs/support/)
